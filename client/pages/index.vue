@@ -5,7 +5,7 @@
       <h1 class="title">
         app
       </h1>
-      <h2>hahahahahaha!</h2>
+      <h2>hello!</h2>
     </div>
   </div>
 </template>
