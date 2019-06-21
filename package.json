@@ -1,0 +1,24 @@
+{
+  "name": "circleci-deploy",
+  "version": "1.0.0",
+  "description": "circleci-deployをはじめてやる",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "firebase-tools": "^7.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skmtko/circleci-deploy.git"
+  },
+  "author": "",
+  "private": true,
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skmtko/circleci-deploy/issues"
+  },
+  "homepage": "https://github.com/skmtko/circleci-deploy#readme"
+}
